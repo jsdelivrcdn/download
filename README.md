@@ -1,1 +1,2 @@
-https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名/文件路径
+
+https://cdn.jsdelivr.net/gh/jsdelivrcdn/download/文件路径
